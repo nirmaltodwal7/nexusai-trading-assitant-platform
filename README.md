@@ -546,6 +546,6 @@ MIT License — free for personal and commercial use.
 
 Built with ❤️ using Next.js, Firebase, MongoDB, and OpenRouter AI
 
-**[Live Demo](https://nexusai-trading-assitant-platform.vercel.app/)** · **[Report Bug](https://github.com/nirmaltodwal7/nexusai-trading-assitant-platform)** · **[Request Feature](https://github.com/your-username/nexusai/issues)**
+**[Live Demo](https://nexusai-trading-assitant-platform.vercel.app/)** · **[Report Bug](https://github.com/nirmaltodwal7/nexusai-trading-assitant-platform)** · **[Request Feature](https://github.com/nirmaltodwal7/nexusai-trading-assitant-platform)**
 
 </div>
